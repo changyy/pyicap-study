@@ -1,0 +1,3 @@
+[submodule "pyicap"]
+	path = pyicap
+	url = https://github.com/netom/pyicap.git
